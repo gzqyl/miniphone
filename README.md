@@ -1,0 +1,2 @@
+# miniphone
+test for wechat
